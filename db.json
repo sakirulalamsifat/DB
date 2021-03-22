@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "sex": "male",
+      "skill": "react js , mongo db",
+      "experience": [
+        "one year at enosis",
+        "two year at springboot"
+      ],
+      "DOB": "17-03-1998"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "sex": "male",
+      "skill": "react js,   mongo db",
+      "experience": "one year at enosis,    two year at springboot",
+      "DOB": "17-03-1998"
+    }
+  ]
+}
